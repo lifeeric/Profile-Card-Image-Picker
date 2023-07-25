@@ -1,6 +1,6 @@
 Hi. It's a React + TypeScript + Vite + Tailwind + Storybook template and your task is to implement a part of UI on this [Figma mockup](https://www.figma.com/file/28FCDmQYC8yZTCstuLDvcq/FE-Trial-Task-2023?type=design&node-id=0-1&mode=design&t=GC7mmQR8hPlVe5Vu-0). 
 
-You need to do thumbnail/logo picker and the Card. 
+You need to do thumbnail/logo picker and the Card amd make a story of the implementation. Everything is prepared for you so you can just create a story file near the Component file or in the storybook `stories` folder. It's up to you
 
 
 Your implementation should fulfill the following requirements:
@@ -16,4 +16,4 @@ You are allowed to use any library you want
  - Card UI
  - Image that the user picked via picker should be rendered in runtime at the appropriate part of the Card (logo/thumbnail)
 
-Please, keep in mind that the Card component could be located far from the Image picker parent component thus you need to think how will you pass the data from the picker to the card
+_Please, keep in mind that the Card component could be located far from the Image picker parent component thus you need to think how will you pass the data from the picker to the card_
